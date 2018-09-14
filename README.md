@@ -1,5 +1,5 @@
 # tonyvaldo.github.io
-# My Name
+# Anthony Valdovinos
 
 ### I am an artist. This is my portfolio site.
 
