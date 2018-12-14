@@ -6,12 +6,13 @@ body {
   padding: 30px 20px;
   text-align: center;
 }
-body {
-  background-image: url(images/portfolio background.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+
 h1 {
+  color: #ebfdfa;
+  padding: 20px 0px 10px 0px;
+}
+h2 {
+  color: #f0be60;
   padding: 20px 0px 10px 0px;
 }
 
