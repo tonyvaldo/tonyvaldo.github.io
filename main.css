@@ -33,15 +33,13 @@ portfolio entries */
 .vimeo-wrapper {
         max-width: 980px;
         position: relative;
-        margin: 0 auto;
-        border: 1px solid green;
+        margin: 0 auto;    
     }
 
     .vimeo-standard {
         float: left;
         height: 300px;
         width: 47%;
-        border: 1px solid #000;
         margin: 10px;
     }
 
