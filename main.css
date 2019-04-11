@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  color: #ebfdfa;
+  color: #DDA0DD;
   padding: 20px 0px 10px 0px;
 }
 h2 {
@@ -19,7 +19,7 @@ h2 {
 /* This changes color and removes default underline in links  */
 
 a {
-color: #69CBBB;
+color: #DA70D6;
 text-decoration: none;
 }
 
