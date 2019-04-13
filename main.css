@@ -15,7 +15,6 @@ h2 {
   color: #d7b6e3;
   padding: 20px 0px 10px 0px;
 }
-
 /* This changes color and removes default underline in links  */
 
 a {
@@ -31,6 +30,9 @@ img {
   width: 100%;
 }
 
+h1 {
+  border-bottom: 1px solid grey;
+}
 /* When you put a period in front of a CSS declaration, it indicates you are
 creating a new class. We can apply this to div elements to create different
 portfolio entries */
